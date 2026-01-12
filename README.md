@@ -67,6 +67,9 @@ If you encounter any issues or have suggestions for improvement, please [open an
 
 [4] Ayyadevara, V. K., & Reddy, Y. (2024). Modern computer vision with PyTorch: A practical roadmap from Deep Learning fundamentals to advanced applications and Generative AI (2nd ed.). Packt Publishing Ltd. https://www.packtpub.com/en-mt/product/modern-computer-vision-with-pytorch-9781803240930 
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E)
+
+
 ---
 ### Happy learning!
 
