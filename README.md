@@ -65,6 +65,8 @@ If you encounter any issues or have suggestions for improvement, please [open an
 
 [3] Prince, S. J. D. (2012). Computer vision: models, learning and inference. https://www.cambridge.org/ca/universitypress/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-models-learning-and-inference 
 
+[4] Ayyadevara, V. K., & Reddy, Y. (2024). Modern computer vision with PyTorch: A practical roadmap from Deep Learning fundamentals to advanced applications and Generative AI (2nd ed.). Packt Publishing Ltd. https://www.packtpub.com/en-mt/product/modern-computer-vision-with-pytorch-9781803240930 
+
 ---
 ### Happy learning!
 
