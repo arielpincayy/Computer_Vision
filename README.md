@@ -69,7 +69,6 @@ If you encounter any issues or have suggestions for improvement, please [open an
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E)
 
-
 ---
 ### Happy learning!
 
