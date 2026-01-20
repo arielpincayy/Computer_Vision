@@ -135,9 +135,9 @@ Sagemaker de NVIDIA, pero está en la siguiente unidad?
 
 ### Online Resources
 
-[13] [Stanford CS231N Deep Learning for Computer Vision | 2025 (YouTube Playlist)](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
+[13] [Stanford CS231N Deep Learning for Computer Vision 2025 (YouTube Playlist)](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
 
-[14] [Stanford Lecture Collection | CNNs for Visual Recognition 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+[14] [Stanford Lecture Collection CNNs for Visual Recognition 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 [15] [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)
 
