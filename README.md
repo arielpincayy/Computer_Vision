@@ -111,7 +111,9 @@ Sagemaker de NVIDIA, pero está en la siguiente unidad?
 <br>
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E)
 
-[4] Deep Learning for Computer Vision, Shanmugamani
+[4] Shanmugamani, R. (2018). Deep Learning for Computer Vision: Expert techniques to train advanced neural networks using TensorFlow and Keras (1st ed.). Packt Publishing. https://www.packtpub.com/en-us/product/deep-learning-for-computer-vision-9781788295628 
+<br>
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/packtpublishing/deep-learning-for-computer-vision)
 
 [5] Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning (1st ed.). The MIT Press. https://www.deeplearningbook.org
 
