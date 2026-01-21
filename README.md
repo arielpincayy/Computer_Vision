@@ -123,7 +123,9 @@ Sagemaker de NVIDIA, pero está en la siguiente unidad?
 
 [7] Prince, S. J. D. (2012). Computer Vision: Models, Learning and Inference. Cambridge University Press. https://www.cambridge.org/ca/universitypress/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-models-learning-and-inference
 
-[8] Dive into Deep Learning (D2L.ai) 
+[8] Zhang, A., Lipton, Z. C., Li, M. U., & Smola, A. J. (2023). Dive into Deep Learning. Cambridge University Press. https://D2L.ai
+<br>
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/d2l-ai/d2l-en)
 
 ### Research Papers
 
