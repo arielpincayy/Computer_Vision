@@ -36,7 +36,21 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
 
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/eugeniomorocho/Computer_Vision/issues). We appreciate your feedback!
 
-## Contents
+## Course Structure
+
+| **Unit** | **Topics & Concepts** | **Tools & Frameworks** | **Lab / Deliverable** | **Complementary Online Courses**
+|:--|:--|:--|:--|:--|
+| **Unit 1: Foundations of Computer Vision & Convolutions** | - What is modern Computer Vision?<br>- Images as tensors<br>- Filtering intuition<br>- Convolutions in images vs CNNs | Python, NumPy, OpenCV | Implement image filters manually and visualize convolution effects | [Image Processing in Python (DataCamp)](https://app.datacamp.com/learn/courses/image-processing-in-python)|
+| **Unit 2: CNNs for Image Classification** | - Neural networks for vision<br>- Convolutional layers, pooling<br>- Training pipeline<br>- Evaluation metrics | PyTorch | Train a CNN for image classification |
+| **Unit 3: Transfer Learning & Model Improvement** | - Overfitting & regularization<br>- Data augmentation<br>- Pretrained CNNs<br>- Fine-tuning vs feature extraction | PyTorch, torchvision | Transfer learning using ResNet or MobileNet |
+| **Unit 4: Object Detection (Midterm Unit)** | - Classification vs detection<br>- Bounding boxes & IoU<br>- YOLO architecture<br>- Dataset annotation | Ultralytics YOLO, Roboflow | Train an object detector on a custom dataset |
+| **Unit 5: Image Segmentation & Pose Estimation** | - Semantic vs instance segmentation<br>- Encoder–decoder architectures<br>- Human pose estimation basics | PyTorch, MediaPipe | Segmentation **or** pose estimation mini-project |
+| **Unit 6: Tracking & Video Analysis** | - Detection vs tracking<br>- Classical trackers (KCF, CSRT)<br>- Tracking-by-detection | OpenCV | Object tracking in video streams |
+| **Unit 7: Model Deployment & Edge AI** | - Inference vs training<br>- ONNX<br>- APIs for vision models<br>- Edge inference and hardware constraints | ONNX Runtime, FastAPI, Jetson Nano | Deploy a trained model as an API **or** run inference on Jetson Nano |
+| **Unit 8: Cloud & Modern Vision AI + Final Project Presentations** | - Vision APIs in the cloud<br>- Vision Transformers & SAM (conceptual)<br>- Ethics and real-world deployment | Cloud vision services (overview) | Use a cloud or foundation vision model for inference and compare results |
+
+
+
 
 ### Unit 1: Introduction to Computer Vision
 OpenCV <br>
