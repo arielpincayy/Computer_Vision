@@ -162,13 +162,6 @@ Sagemaker de NVIDIA, pero está en la siguiente unidad?
 | :---:  | :---------------------------------------------   | :---------------------------------------------   |
 | 1      | [Introducción a las redes neuronales](https://marsgr6.github.io/presentations/rnas_html/S1/S1_intro_ann.html) | Introducción a las redes neuronales: desde la neurona de McCulloch-Pitts hasta el perceptrón multicapa, explorando los fundamentos del procesamiento neuronal artificial. |
 
-## 📂 Course Notebooks
-
-<!-- START NOTEBOOK LIST -->
-_Esta sección se genera automáticamente. No editar a mano._
-<!-- END NOTEBOOK LIST -->
-
-
 ## Bibliography
 
 ### Primary Books
