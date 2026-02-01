@@ -38,6 +38,15 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
 
 **Slides:**
 
+[![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white&style=for-the-badge)](https://www.canva.com/design/XXXX/view)
+
+
+[![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/XXXX/view)
+
+
+[![View on Canva](https://img.shields.io/badge/View-Canva-00C4CC?logo=canva&logoColor=white)](https://www.canva.com/design/XXXX/view)
+
+
 [![Open Slides in Canva](https://img.shields.io/badge/Open%20Slides-Canva-00C4CC?logo=canva&logoColor=white)](YOUR_CANVA_LINK_HERE)
 
 https://www.canva.com/design/DAG9kh3-RYE/U057KQjn5ThKph4NRyt2EQ/view
