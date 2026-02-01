@@ -61,14 +61,23 @@ If you encounter any issues or have suggestions for improvement, please [open an
 
 ---
 
-### **Unit 4: Object Detection (Midterm Unit)**
+### **Unit 4: Object Detection (Midterm Unit)**  
 **Topics:** Classification vs detection, bounding boxes & IoU, YOLO architecture, dataset annotation  
-[1. Drawing a Bounding Box with OpenCV.ipynb](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Object%20Detection%20(YOLO%20%2B%20Roboflow)/Object%20Detection/1.%20Drawing%20a%20Bounding%20Box%20with%20OpenCV.ipynb)
-[]()
-[]()
+
+1. Drawing a Bounding Box with OpenCV  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Object%20Detection%20(YOLO%20%2B%20Roboflow)/Object%20Detection/1.%20Drawing%20a%20Bounding%20Box%20with%20OpenCV.ipynb)
+
+2. Real-time Object Detection with YOLO  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Object%20Detection%20(YOLO%20%2B%20Roboflow)/Object%20Detection/2.%20Real-time%20Object%20Detection%20with%20YOLO.ipynb)
+
+3. Custom YOLO Object Detection with Roboflow  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Object%20Detection%20(YOLO%20%2B%20Roboflow)/Object%20Detection/3.%20Custom%20YOLO%20Object%20Detection%20with%20Roboflow.ipynb)
+
 <br>
+
 **Tools:** Ultralytics YOLO, Roboflow, OpenCV (Bounding Boxes Notebook)  
 **Lab / Deliverable:** Train an object detector on a custom dataset using [Roboflow](https://roboflow.com)
+
 
 ---
 
