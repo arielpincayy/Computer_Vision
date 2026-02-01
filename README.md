@@ -40,15 +40,6 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
 
 [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAG9kh3-RYE/s26i4QoK_D1lUX510QcoZQ/view?utm_content=DAG9kh3-RYE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he981cdd10d)
 
-[![View on Canva](https://img.shields.io/badge/View%20on%20Canva-00C4CC?style=for-the-badge)](https://www.canva.com/design/DAG9kh3-RYE/QfDlM1pzk2cZURTLeY3Rdg/view)
-
-
-<a href="https://www.canva.com/design/XXXX/view" target="_blank">
-  <img src="assets/canva-logo.png" alt="Open in Canva" width="50" style="display:inline-block; vertical-align:middle;" />
-</a>
-
-<br>
-
 **Tools:** Python, NumPy, OpenCV  
 
 **Notebooks:**  
