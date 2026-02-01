@@ -1,0 +1,35 @@
+name: Auto-update README with notebooks
+
+on:
+  push:
+    paths:
+      - '**.ipynb'
+      - 'generate_readme.py'
+      - 'README.md'
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate README section
+        run: python generate_readme.py
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "🤖 Auto-update notebook list" || echo "No changes to commit"
+          git push

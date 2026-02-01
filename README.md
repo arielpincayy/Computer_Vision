@@ -36,18 +36,67 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
 
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/eugeniomorocho/Computer_Vision/issues). We appreciate your feedback!
 
+
 ## Course Structure
 
-| **Unit** | **Topics & Concepts** | **Tools & Frameworks** | **Lab / Deliverable** | **Complementary Online Courses**
-|:--|:--|:--|:--|:--|
-| **Unit 1: Foundations of Computer Vision & Convolutions** | - What is modern Computer Vision?<br>- Images as tensors<br>- Filtering intuition<br>- Convolutions in images vs CNNs | Python, NumPy, OpenCV | Implement image filters manually and visualize convolution effects | [Image Processing in Python (DataCamp)](https://app.datacamp.com/learn/courses/image-processing-in-python)|
-| **Unit 2: CNNs for Image Classification** | - Neural networks for vision<br>- Convolutional layers, pooling<br>- Training pipeline<br>- Evaluation metrics | PyTorch | Train a CNN for image classification |
-| **Unit 3: Transfer Learning & Model Improvement** | - Overfitting & regularization<br>- Data augmentation<br>- Pretrained CNNs<br>- Fine-tuning vs feature extraction | PyTorch, torchvision | Transfer learning using ResNet or MobileNet |
-| **Unit 4: Object Detection (Midterm Unit)** | - Classification vs detection<br>- Bounding boxes & IoU<br>- YOLO architecture<br>- Dataset annotation | Ultralytics YOLO, Roboflow <br> [**1. Drawing a Bounding Box with OpenCV.ipynb**](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Object%20Detection%20(YOLO%20%2B%20Roboflow)/Object%20Detection/1.%20Drawing%20a%20Bounding%20Box%20with%20OpenCV.ipynb)| Train an object detector on a custom dataset with [Roboflow](https://roboflow.com) |
-| **Unit 5: Image Segmentation & Pose Estimation** | - Semantic vs instance segmentation<br>- Encoder–decoder architectures<br>- Human pose estimation basics | PyTorch, MediaPipe | Segmentation **or** pose estimation mini-project |
-| **Unit 6: Tracking & Video Analysis** | - Detection vs tracking<br>- Classical trackers (KCF, CSRT)<br>- Tracking-by-detection | OpenCV | Object tracking in video streams |
-| **Unit 7: Model Deployment & Edge AI** | - Inference vs training<br>- ONNX<br>- APIs for vision models<br>- Edge inference and hardware constraints | ONNX Runtime, FastAPI, Jetson Nano | Deploy a trained model as an API **or** run inference on Jetson Nano |
-| **Unit 8: Cloud & Modern Vision AI + Final Project Presentations** | - Vision APIs in the cloud<br>- Vision Transformers & SAM (conceptual)<br>- Ethics and real-world deployment | Cloud vision services (overview) | Use a cloud or foundation vision model for inference and compare results |
+### **Unit 1: Foundations of Computer Vision & Convolutions**
+**Topics:** Modern Computer Vision, images as tensors, filtering intuition, convolutions vs CNNs  
+**Tools:** Python, NumPy, OpenCV  
+**Lab / Deliverable:** Implement image filters manually and visualize convolution effects  
+**Complementary Course:** [Image Processing in Python (DataCamp)](https://app.datacamp.com/learn/courses/image-processing-in-python)
+
+---
+
+### **Unit 2: CNNs for Image Classification**
+**Topics:** Neural networks for vision, convolutional layers, pooling, training pipeline, evaluation metrics  
+**Tools:** PyTorch  
+**Lab / Deliverable:** Train a CNN for image classification  
+
+---
+
+### **Unit 3: Transfer Learning & Model Improvement**
+**Topics:** Overfitting, regularization, data augmentation, pretrained CNNs, fine-tuning vs feature extraction  
+**Tools:** PyTorch, torchvision  
+**Lab / Deliverable:** Transfer learning using ResNet or MobileNet  
+
+---
+
+### **Unit 4: Object Detection (Midterm Unit)**
+**Topics:** Classification vs detection, bounding boxes & IoU, YOLO architecture, dataset annotation  
+[1. Drawing a Bounding Box with OpenCV.ipynb](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Object%20Detection%20(YOLO%20%2B%20Roboflow)/Object%20Detection/1.%20Drawing%20a%20Bounding%20Box%20with%20OpenCV.ipynb)
+[]()
+[]()
+<br>
+**Tools:** Ultralytics YOLO, Roboflow, OpenCV (Bounding Boxes Notebook)  
+**Lab / Deliverable:** Train an object detector on a custom dataset using [Roboflow](https://roboflow.com)
+
+---
+
+### **Unit 5: Image Segmentation & Pose Estimation**
+**Topics:** Semantic vs instance segmentation, encoder–decoder architectures, human pose estimation basics  
+**Tools:** PyTorch, MediaPipe  
+**Lab / Deliverable:** Segmentation **or** pose estimation mini-project  
+
+---
+
+### **Unit 6: Tracking & Video Analysis**
+**Topics:** Detection vs tracking, classical trackers (KCF, CSRT), tracking-by-detection  
+**Tools:** OpenCV  
+**Lab / Deliverable:** Object tracking in video streams  
+
+---
+
+### **Unit 7: Model Deployment & Edge AI**
+**Topics:** Inference vs training, ONNX, vision model APIs, edge inference and hardware constraints  
+**Tools:** ONNX Runtime, FastAPI, Jetson Nano  
+**Lab / Deliverable:** Deploy a trained model as an API **or** run inference on Jetson Nano  
+
+---
+
+### **Unit 8: Cloud & Modern Vision AI + Final Project Presentations**
+**Topics:** Cloud vision APIs, Vision Transformers, Segment Anything Model (conceptual), ethics and real-world deployment  
+**Tools:** Cloud vision services (overview)  
+**Lab / Deliverable:** Use a cloud or foundation vision model for inference and compare results  
 
 
 
@@ -112,6 +161,13 @@ Sagemaker de NVIDIA, pero está en la siguiente unidad?
 | Semana | Notebook                          | Temas| 
 | :---:  | :---------------------------------------------   | :---------------------------------------------   |
 | 1      | [Introducción a las redes neuronales](https://marsgr6.github.io/presentations/rnas_html/S1/S1_intro_ann.html) | Introducción a las redes neuronales: desde la neurona de McCulloch-Pitts hasta el perceptrón multicapa, explorando los fundamentos del procesamiento neuronal artificial. |
+
+## 📂 Course Notebooks
+
+<!-- START NOTEBOOK LIST -->
+_Esta sección se genera automáticamente. No editar a mano._
+<!-- END NOTEBOOK LIST -->
+
 
 ## Bibliography
 
