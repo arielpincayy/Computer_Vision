@@ -38,6 +38,12 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
 
 **Slides:**
 
+[![Open Slides in Canva](https://img.shields.io/badge/Open%20Slides-Canva-00C4CC?logo=canva&logoColor=white)](YOUR_CANVA_LINK_HERE)
+
+https://www.canva.com/design/DAG9kh3-RYE/U057KQjn5ThKph4NRyt2EQ/view
+
+https://www.canva.com/design/DAG9kh3-RYE/U057KQjn5ThKph4NRyt2EQ/view?utm_content=DAG9kh3-RYE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9fcecfb297
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
