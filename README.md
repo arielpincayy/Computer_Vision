@@ -26,24 +26,39 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
    ```
 
 
-
 ## Requirements
 
 - Python 3.x as the interpreter
 - Additional dependencies specified in each week's lab instructions
 
-## Support and Feedback
-
-If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/eugeniomorocho/Computer_Vision/issues). We appreciate your feedback!
-
-
 ## Course Structure
 
 ### **Unit 1: Foundations of Computer Vision & Convolutions**
 **Topics:** Modern Computer Vision, images as tensors, filtering intuition, convolutions vs CNNs  
+
+**Slides:**
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAG9kh3-RYE/U057KQjn5ThKph4NRyt2EQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG9kh3-RYE&#x2F;U057KQjn5ThKph4NRyt2EQ&#x2F;view?utm_content=DAG9kh3-RYE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Unit 1: Foundations of Computer Vision &amp; Convolutions</a> by Eugenio Morocho
+
 **Tools:** Python, NumPy, OpenCV  
-**Lab / Deliverable:** Implement image filters manually and visualize convolution effects  
-**Complementary Course:** [Image Processing in Python (DataCamp)](https://app.datacamp.com/learn/courses/image-processing-in-python)
+
+**Notebooks:**  
+1.  
+2.
+
+**Assignment:**  
+- Implement image filters manually and visualize convolution effects  
+
+**Complementary Course:** 
+
+- [Image Processing in Python (DataCamp)](https://app.datacamp.com/learn/courses/image-processing-in-python)
 
 ---
 
@@ -64,6 +79,7 @@ If you encounter any issues or have suggestions for improvement, please [open an
 ### **Unit 4: Object Detection (Midterm Unit)**  
 **Topics:** Classification vs detection, bounding boxes & IoU, YOLO architecture, dataset annotation  
 
+**Notebooks:**  
 1. Drawing a Bounding Box with OpenCV  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Object%20Detection%20(YOLO%20%2B%20Roboflow)/Object%20Detection/1.%20Drawing%20a%20Bounding%20Box%20with%20OpenCV.ipynb)
 
@@ -73,11 +89,14 @@ If you encounter any issues or have suggestions for improvement, please [open an
 3. Custom YOLO Object Detection with Roboflow  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Object%20Detection%20(YOLO%20%2B%20Roboflow)/Object%20Detection/3.%20Custom%20YOLO%20Object%20Detection%20with%20Roboflow.ipynb)
 
-<br>
+**Resources:**
+
+- [Ultralytics](https://www.ultralytics.com)<br>
+- [Roboflow](https://roboflow.com)
+
 
 **Tools:** Ultralytics YOLO, Roboflow, OpenCV (Bounding Boxes Notebook)  
 **Lab / Deliverable:** Train an object detector on a custom dataset using [Roboflow](https://roboflow.com)
-
 
 ---
 
@@ -107,69 +126,32 @@ If you encounter any issues or have suggestions for improvement, please [open an
 **Tools:** Cloud vision services (overview)  
 **Lab / Deliverable:** Use a cloud or foundation vision model for inference and compare results  
 
+---
 
+## Support and Feedback
 
+If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/eugeniomorocho/Computer_Vision/issues). We appreciate your feedback!
 
-### Unit 1: Introduction to Computer Vision
-OpenCV <br>
-DataCamp: Introduction to Python
-
-### Unit 2: Image Filtering and Convolutions
-OpenCV 
-
-### Unit 3: Naural Networks and CNN (Image Classification)
-PyTorch
-
-### Unit 4: Transfer Learning
-PyTorch
+---
 
 ### Unit 5: Face Detection
 OpenCV (Haar / DNN Module)\
 PyTorch
-
-### Unit 6: Object Detection (Ultralytics YOLO + Roboflow)
-PyTorch
-
-| Drawing a Bounding box | Notebook |\
-| YOLO on an image | Notebook |
-
-
-[🖥️ Ultralytics website](https://www.ultralytics.com)<br>
-[🌎 Roboflow website](https://roboflow.com)
-
-### Unit 7: Image Segmentation
-PyTorch
-
 ### Unit 8: 3D Reconstruction (drone imagery)
-
-### 9. Pose Estimation
-
 ### # Mobile Computer Vision (on the edge)
-
 MediaPipe <br>
 [Flutter](https://flutter.dev/) <br>
 Android/iOS/Web
-
 ### Model Deployment
-
 Running Model with ONNX Runtime <br>
 Creating API with FastAPI
-
 ### 10. Tracking
 OpenCV (KCF, CSRT)
-
 ### UC.11 Generative AI
-
 ### NVIDIA TAO Toolkit and DeepStream (Docker + Jetson Nano 2GB Developer Kit) ONNX? 
 Sagemaker de NVIDIA, pero está en la siguiente unidad?
-
 ### UC.13 Computer Vision on the Cloud (AWS REkognition, Lookout for Vision, and SageMaker)
 
-## Contenido
-
-| Semana | Notebook                          | Temas| 
-| :---:  | :---------------------------------------------   | :---------------------------------------------   |
-| 1      | [Introducción a las redes neuronales](https://marsgr6.github.io/presentations/rnas_html/S1/S1_intro_ann.html) | Introducción a las redes neuronales: desde la neurona de McCulloch-Pitts hasta el perceptrón multicapa, explorando los fundamentos del procesamiento neuronal artificial. |
 
 ## Bibliography
 
