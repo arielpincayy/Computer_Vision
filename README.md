@@ -40,6 +40,31 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
 
 [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAG9kh3-RYE/s26i4QoK_D1lUX510QcoZQ/view?utm_content=DAG9kh3-RYE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he981cdd10d)
 
+[![Canva](https://img.shields.io/badge/Canva-View%20Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/XXXX/view)
+
+[![View on Canva](https://img.shields.io/badge/View%20on%20Canva-00C4CC?style=for-the-badge)](https://www.canva.com/design/XXXX/view)
+
+### 🎨 Project Poster
+[![View on Canva](https://img.shields.io/badge/View%20Interactive%20Version-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/XXXX/view)
+
+<a href="https://www.canva.com/design/XXXX/view" target="_blank">
+  <img src="assets/canva-logo.png" alt="Canva" width="20" style="vertical-align:middle; margin-right:6px;"/>
+  <b style="color:#7D2AE8;">View on Canva</b>
+</a>
+
+[<img src="assets/canva-logo.png" width="20"/> **View on Canva**](https://www.canva.com/design/XXXX/view)
+
+
+### 🎨 Interactive Version
+
+[<img src="assets/canva-logo.png" width="20"/> **Open in Canva**](https://www.canva.com/design/XXXX/view)
+
+[![Poster Preview](poster-preview.png)](https://www.canva.com/design/XXXX/view)
+
+[<img src="assets/canva-logo.png" width="20"/> **View Interactive Version on Canva**](https://www.canva.com/design/XXXX/view)
+
+
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
