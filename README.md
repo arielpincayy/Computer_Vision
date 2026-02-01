@@ -165,7 +165,154 @@ Sagemaker de NVIDIA, pero está en la siguiente unidad?
 ## 📂 Course Notebooks
 
 <!-- START NOTEBOOK LIST -->
-_Esta sección se genera automáticamente. No editar a mano._
+
+### 📁 Redes Neuronales Artificiales/EN-online-main
+
+- **clustering**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/clustering.ipynb)
+- **clustering mini capstone**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/clustering_mini_capstone.ipynb)
+- **continuous distributions**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/continuous_distributions.ipynb)
+- **data tidying**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/data_tidying.ipynb)
+- **data visualization**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/data_visualization.ipynb)
+- **descriptive statistics**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/descriptive_statistics.ipynb)
+- **dimensionality reduction**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/dimensionality_reduction.ipynb)
+- **discrete distributions**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/discrete_distributions.ipynb)
+- **exploratory data analysis**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/exploratory_data_analysis.ipynb)
+- **statistical inference**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/statistical_inference.ipynb)
+- **statistical tests**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/statistical_tests.ipynb)
+
+### 📁 Redes Neuronales Artificiales/EN-online-main/interactive
+
+- **app**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/interactive/app.ipynb)
+
+### 📁 Redes Neuronales Artificiales/EN-online-main/misc
+
+- **TS Viz**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/misc/TS_Viz.ipynb)
+- **distribution fitting**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/misc/distribution_fitting.ipynb)
+
+### 📁 Redes Neuronales Artificiales/EN-online-main/tareas
+
+- **Tarea semana 1**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/tareas/Tarea_semana_1.ipynb)
+- **Tarea semana 2**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/tareas/Tarea_semana_2.ipynb)
+- **Tarea semana 3**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/tareas/Tarea_semana_3.ipynb)
+- **Tarea semana 4**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/EN-online-main/tareas/Tarea_semana_4.ipynb)
+
+### 📁 Redes Neuronales Artificiales/rna-online-main
+
+- **ann dnn**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main/ann_dnn.ipynb)
+- **cnn yolo**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main/cnn_yolo.ipynb)
+- **intro ann**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main/intro_ann.ipynb)
+- **lstm transformers gan**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main/lstm_transformers_gan.ipynb)
+- **mlp hyperparameter optimization**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main/mlp_hyperparameter_optimization.ipynb)
+- **saits transformers ts**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main/saits_transformers_ts.ipynb)
+
+### 📁 Redes Neuronales Artificiales/rna-online-main 2
+
+- **ann dnn**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/ann_dnn.ipynb)
+- **cnn yolo**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/cnn_yolo.ipynb)
+- **intro ann**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/intro_ann.ipynb)
+- **lstm transformers gan**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/lstm_transformers_gan.ipynb)
+- **mlp hyperparameter optimization**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/mlp_hyperparameter_optimization.ipynb)
+- **saits transformers ts**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/saits_transformers_ts.ipynb)
+
+### 📁 Redes Neuronales Artificiales/rna-online-main 2/misc/colab_ipynb
+
+- **S1 RNAs colab**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/misc/colab_ipynb/S1_RNAs_colab.ipynb)
+- **S2 RNAs colab**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/misc/colab_ipynb/S2_RNAs_colab.ipynb)
+- **S3 RNAs CNN colab**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/misc/colab_ipynb/S3_RNAs_CNN_colab.ipynb)
+- **S3 RNAs LSTM colab**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/misc/colab_ipynb/S3_RNAs_LSTM_colab.ipynb)
+- **S4 RNAs saits transformers ts**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/misc/colab_ipynb/S4_RNAs_saits_transformers_ts.ipynb)
+
+### 📁 Redes Neuronales Artificiales/rna-online-main 2/tareas
+
+- **Tarea semana 1**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/tareas/Tarea_semana_1.ipynb)
+- **Tarea semana 2**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/tareas/Tarea_semana_2.ipynb)
+- **Tarea semana 3**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/tareas/Tarea_semana_3.ipynb)
+- **Tarea semana 4**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main 2/tareas/Tarea_semana_4.ipynb)
+
+### 📁 Redes Neuronales Artificiales/rna-online-main/tareas
+
+- **Tarea semana 1**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main/tareas/Tarea_semana_1.ipynb)
+- **Tarea semana 2**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main/tareas/Tarea_semana_2.ipynb)
+- **Tarea semana 3**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main/tareas/Tarea_semana_3.ipynb)
+- **Tarea semana 4**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/Redes Neuronales Artificiales/rna-online-main/tareas/Tarea_semana_4.ipynb)
+
+### 📁 UC.03 Neural Networks and CNN (Image Classification)/Image classification
+
+- **Captura continua de imágenes**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.03 Neural Networks and CNN (Image Classification)/Image classification/Captura_continua_de_imágenes.ipynb)
+- **Clasificacion imagenes perros gatos VGG-16 transfer learning**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.03 Neural Networks and CNN (Image Classification)/Image classification/Clasificacion_imagenes_perros_gatos_VGG-16_transfer_learning.ipynb)
+- **Tutorial importar imágenes OpenCV**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.03 Neural Networks and CNN (Image Classification)/Image classification/Tutorial_importar_imágenes_OpenCV.ipynb)
+
+### 📁 UC.05 Face Detection
+
+- **open close camera**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.05 Face Detection/open_close_camera.ipynb)
+
+### 📁 UC.05 Face Detection/Face detection
+
+- **caso2 reconocimiento facial**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.05 Face Detection/Face detection/caso2_reconocimiento_facial.ipynb)
+- **face detection**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.05 Face Detection/Face detection/face_detection.ipynb)
+
+### 📁 UC.06 Object Detection (YOLO + Roboflow)/Object Detection
+
+- **1. Drawing a Bounding Box with OpenCV**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06 Object Detection (YOLO + Roboflow)/Object Detection/1. Drawing a Bounding Box with OpenCV.ipynb)
+- **2. Real-time Object Detection with YOLO**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06 Object Detection (YOLO + Roboflow)/Object Detection/2. Real-time Object Detection with YOLO.ipynb)
+- **3. Custom YOLO Object Detection with Roboflow**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06 Object Detection (YOLO + Roboflow)/Object Detection/3. Custom YOLO Object Detection with Roboflow.ipynb)
+
+### 📁 UC.08 3D Reconstruction (drone imagery)/Reconstruccion_3D
+
+- **3D reconstruction**  
+  [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.08 3D Reconstruction (drone imagery)/Reconstruccion_3D/3D_reconstruction.ipynb)
 <!-- END NOTEBOOK LIST -->
 
 
