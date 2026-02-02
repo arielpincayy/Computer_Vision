@@ -34,17 +34,19 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
 ## Course Structure
 
 ### **Unit 1: Foundations of Computer Vision & Convolutions**
-**Topics:** Modern Computer Vision, images as tensors, filtering intuition, convolutions vs CNNs  
+**Topics:**  
+Images as tensors, image filtering, convolution, understanding visual features. 
 
-**Slides:**
-
+**Slides:**  
+Unit 1: Foundations of Computer Vision & Convolutions  
 [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAG9kh3-RYE/s26i4QoK_D1lUX510QcoZQ/view?utm_content=DAG9kh3-RYE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he981cdd10d)
 
 **Tools:** Python, NumPy, OpenCV  
 
 **Notebooks:**  
-1.  
-2.
+1.   
+2.  
+3.  
 
 **Assignment:**  
 - Implement image filters manually and visualize convolution effects  
@@ -52,6 +54,10 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
 **Complementary Course:** 
 
 - [Image Processing in Python (DataCamp)](https://app.datacamp.com/learn/courses/image-processing-in-python)
+
+**Aditional Readings:**
+   - **Chapter 15: Linear Imgae Filtering** Torralba, A., Isola, P., & Freeman, W. (2024). Foundations of Computer Vision. MIT Press. https://visionbook.mit.edu/
+
 
 ---
 
