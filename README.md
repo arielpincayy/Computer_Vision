@@ -35,7 +35,7 @@ Welcome to the GitHub repository for the Computer Vision course. This repository
 
 ### **Unit 1: Foundations of Computer Vision & Convolutions**
 **Topics:**  
-Images as tensors, image filtering, convolution, understanding visual features. 
+Images as tensors, image filtering and convolution, understanding visual features. 
 
 **Slides:**  
 Unit 1: Foundations of Computer Vision & Convolutions  
@@ -46,12 +46,15 @@ Unit 1: Foundations of Computer Vision & Convolutions
 **Datasets:** MNIST
 
 **Notebooks:**  
-[1. Images as tensors]()  
-[2.]()  
-[3.]()  
 
-1. Drawing a Bounding Box with OpenCV  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Object%20Detection%20(YOLO%20%2B%20Roboflow)/Object%20Detection/1.%20Drawing%20a%20Bounding%20Box%20with%20OpenCV.ipynb)
+1. Images as tensors  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Introduction%20to%20Computer%20Vision/1.%20Images%20as%20tensors.ipynb)
+
+2. Image filtering and convolution   
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Introduction%20to%20Computer%20Vision/1.%20Images%20as%20tensors.ipynb)
+
+3. Understanding visual features   
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Introduction%20to%20Computer%20Vision/1.%20Images%20as%20tensors.ipynb)
 
 **Assignments:**  
    - Implement image filters manually and visualize convolution effects  
@@ -59,7 +62,7 @@ Unit 1: Foundations of Computer Vision & Convolutions
    - [Image Processing in Python (DataCamp)](https://app.datacamp.com/learn/courses/image-processing-in-python)
 
 **Aditional Readings:**
-   - **Chapter 15: Linear Imgae Filtering** Torralba, A., Isola, P., & Freeman, W. (2024). Foundations of Computer Vision. MIT Press. https://visionbook.mit.edu/
+   - **Chapter 15: Linear Image Filtering** Torralba, A., Isola, P., & Freeman, W. (2024). Foundations of Computer Vision. MIT Press. https://visionbook.mit.edu/
 
 
 ---
