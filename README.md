@@ -43,7 +43,8 @@ Unit 1: Foundations of Computer Vision & Convolutions
 
 **Tools:** Python, NumPy, OpenCV, PyTorch
 
-**Datasets:** MNIST
+**Datasets:**  
+[CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html), *Department of Computer Science, University of Toronto*
 
 **Notebooks:**  
 
@@ -120,9 +121,9 @@ Unit 1: Foundations of Computer Vision & Convolutions
 ---
 
 ### **Unit 7: Model Deployment & Edge AI**
-**Topics:** Inference vs training, ONNX, vision model APIs, edge inference and hardware constraints  
-**Tools:** ONNX Runtime, FastAPI, Jetson Nano  
-**Lab / Deliverable:** Deploy a trained model as an API **or** run inference on Jetson Nano  
+**Topics:** Inference vs training, running models with ONNX runtime, vision model APIs, edge inference and hardware constraints  
+**Tools:** ONNX Runtime, FastAPI, Jetson Nano, MediaPipe, Flutter (iOS, Android and web)  
+**Lab / Deliverable:** Deploy a trained model as an API and consume it from the cloud (AWS, MS Azure, Huawei Cloud, Oracle Cloud, etc.) **or** run inference on Jetson Nano using the GPU **or** on a mobile phone, tablet, watch, TV, etc., using [Flutter](https://flutter.dev/) with MediaPipe
 
 ---
 
@@ -139,23 +140,13 @@ If you encounter any issues or have suggestions for improvement, please [open an
 
 ---
 
-### Unit 5: Face Detection
-OpenCV (Haar / DNN Module)\
-PyTorch
-### Unit 8: 3D Reconstruction (drone imagery)
-### # Mobile Computer Vision (on the edge)
-MediaPipe <br>
-[Flutter](https://flutter.dev/) <br>
-Android/iOS/Web
-### Model Deployment
-Running Model with ONNX Runtime <br>
-Creating API with FastAPI
-### 10. Tracking
-OpenCV (KCF, CSRT)
-### UC.11 Generative AI
-### NVIDIA TAO Toolkit and DeepStream (Docker + Jetson Nano 2GB Developer Kit) ONNX? 
-Sagemaker de NVIDIA, pero está en la siguiente unidad?
-### UC.13 Computer Vision on the Cloud (AWS REkognition, Lookout for Vision, and SageMaker)
+## Extra Topics:
+
+- Face Detection: OpenCV (Haar / DNN Module), PyTorch
+- 3D Reconstruction (from drone imagery)
+- Generative AI for Computer Vision (OpenAI Dall-E, etc.)
+- NVIDIA TAO Toolkit and DeepStream (Docker + Jetson Nano 2GB Developer Kit) ONNX 
+- Computer Vision on the Cloud (AWS Rekognition, Lookout for Vision, and NVIDIA's SageMaker)
 
 
 ## Bibliography
@@ -214,5 +205,5 @@ Manuel Eugenio Morocho-Cayamcela, Ph.D.
 </p>
 
 <div style="text-align: right;">
-  <img src="yt.png" alt="drawing" style="width: 100px;" />
+  <img src="assets/yt.png" alt="drawing" style="width: 100px;" />
 </div>
