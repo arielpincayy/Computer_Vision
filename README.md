@@ -54,8 +54,8 @@ Unit 1: Foundations of Computer Vision & Convolutions
 2. Image filtering and convolution   
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Introduction%20to%20Computer%20Vision/1.%20Images%20as%20tensors.ipynb)
 
-3. Understanding visual features   
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Introduction%20to%20Computer%20Vision/1.%20Images%20as%20tensors.ipynb)
+3. Filters in OpenCV  
+[![Open in GitHub]()
 
 **Assignments:**  
    - Implement image filters manually and visualize convolution effects  
