@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Dataset files (too large for GitHub)
+datasets/
+data/
+*/data/
+**/data/
+*.tar.gz
+*.zip
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pb
+yolo*.pt
+**/yolo-Weights/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# venv
+.venv/
