@@ -42,3 +42,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+UC.04 Object Detection/Object Detection/runs/
+UC.04 Object Detection/Object Detection/final_dataset
