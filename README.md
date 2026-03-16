@@ -23,31 +23,33 @@ Welcome to the GitHub repository for the Computer Vision course at Yachay Tech U
    ```
 
 ## Requirements
+
 - `Python 3.x` as the interpreter
 - Additional dependencies specified in each week's lab instructions
 - Create a [GitHub](https://github.com) repository for submitting your assignments and add `@eugeniomorocho` as collaborator.
 
 ## Minimum Contents
+
 - Image formation, image processing, feature extraction, segmentation, computational photography, 3D reconstruction, and object
 detection and recognition.
 
 ## Learning Outcomes
+
 - Process data from visual representations, images, and video to extract information. Classify images and extract features.
 
 ## Course Contents
 
 ### **Unit 1: Foundations of Computer Vision & Convolutions**
-**Topics:**  
-Modern computer vision, images as tensors, image filtering and convolution, understanding visual features.  
+
+**Topics:**
+
+History of computer vision, modern computer vision, images as tensors, image filtering and convolution, understanding visual features.  
 
 **Slides:**  
+
 Unit 1: Foundations of Computer Vision & Convolutions  
+
 [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAG9kh3-RYE/s26i4QoK_D1lUX510QcoZQ/view?utm_content=DAG9kh3-RYE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he981cdd10d)
-
-**Tools:** Python, NumPy, OpenCV, PyTorch
-
-**Datasets:**  
-[CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html), *Department of Computer Science, University of Toronto*
 
 **Notebooks:**  
 
@@ -65,64 +67,109 @@ Unit 1: Foundations of Computer Vision & Convolutions
 - *Lab 01:* Classification with Filters  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.01%20Foundations%20of%20CV%20%26%20Convolutions/Lab%2001%3A%20Classification%20with%20filters.ipynb)
 
-- *DataCamp* course: [Image Processing in Python (DataCamp)](https://app.datacamp.com/learn/courses/image-processing-in-python)
+- *DataCamp* course: [Image Processing in Python](https://app.datacamp.com/learn/courses/image-processing-in-python)
 
 **Aditional Readings:**
-- **Chapter 15: Linear Image Filtering** Torralba, A., Isola, P., & Freeman, W. (2024). Foundations of Computer Vision. MIT Press. https://visionbook.mit.edu/
+
+- **Chapter 15: Linear Image Filtering** Torralba, A., Isola, P., & Freeman, W. (2024). *Foundations of Computer Vision*. MIT Press. https://visionbook.mit.edu/
+
+**Tools:**  
+
+[Python](https://www.python.org), [NumPy](https://numpy.org), [OpenCV](https://opencv.org), [PyTorch](https://pytorch.org)
+
+**Datasets:**  
+
+- [MNIST](https://www.tensorflow.org/datasets/catalog/mnist), *National Institute of Standards and Technology (NIST)*, Department of Commerce, U.S.  
+- [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html), *Department of Computer Science*, University of Toronto.
 
 ---
 
 ### **Unit 2: CNNs for Image Classification**
-**Topics:** Neural networks for vision, convolutional layers, pooling, training pipeline, evaluation metrics  
+
+**Topics:** Neural networks for vision, convolutional layers, pooling, training pipeline (forward inference and backpropagation), evaluation metrics, overfitting, regularization.
 
 **Slides**
 Unit 2: CNNs for Image Classification  
+
 *Part 1:* [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAHBCVJ9lNs/RfBVZ-nWvwQ-uUc-0mdRaQ/view?utm_content=DAHBCVJ9lNs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee360a69b2)  
 
 *Part 2:* [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://www.canva.com/design/DAHBIXVGh88/-l46ADjHryNSzPaFbEJF6A/view?utm_content=DAHBIXVGh88&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4e90a6867d)  
 
-**Tools:** PyTorch  
+**Tools:** [PyTorch](https://pytorch.org)  
 
 **Datasets:**  
 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html), *Department of Computer Science, University of Toronto* 
 
 **Notebooks:**  
+
 1. Train a CNN for image classification with PyTorch  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.02%20CNNs%20for%20Image%20Classification/1.%20Train%20a%20CNN%20for%20image%20classification%20with%20PyTorch.ipynb)
 
 **Assignments:**  
-- *Lab 02:* Create your own CNN
+- *Lab 02:* Create your own CNN  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.02%20CNNs%20for%20Image%20Classification/Lab%2002%3A%20Image%20classifier.ipynb)  
 - *DataCamp* course: [Introduction to Deep Learning with PyTorch](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-pytorch)  
 
 **Aditional Readings:**
-- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
 
-- **Training a Classifier** PyTorch Tutorial https://docs.pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
+- **Chapter 3: Building a Deep Neural Network with PyTorch** Ayyadevara, V. K., & Reddy, Y. (2024). *Modern Computer Vision with PyTorch: A practical roadmap from Deep Learning fundamentals to advanced applications and Generative AI (2nd ed.)*. Packt Publishing Ltd. https://www.packtpub.com/en-mt/product/modern-computer-vision-with-pytorch-9781803240930
+
+- **Get Started locally with PyTorch:** https://pytorch.org/get-started/locally/
+
+- **Defining a Neural Network in PyTorch:** https://docs.pytorch.org/tutorials/recipes/recipes/defining_a_neural_network.html
+
+- **PyTorch Recipes:** https://docs.pytorch.org/tutorials/recipes_index.html
+
+- **PyTorch Tutorials:** https://docs.pytorch.org/tutorials/ 
 
 ---
 
 ### **Unit 3: Transfer Learning & Model Improvement**
-**Topics:** Overfitting, regularization, data augmentation, pretrained CNNs, fine-tuning vs feature extraction  
 
-**Tools:** PyTorch, torchvision  
+**Topics:**
 
-**Datasets:**  
-[dataset](url)
+ CNN architectures, pretrained weights, pretrained CNNs, transfer learning, data augmentation,  fine-tuning and model improvement.
 
-**Notebooks:**  
-Transfer learning using ResNet or MobileNet  
+ **Slides**
+Unit 3: CNNs for Image Classification
+
+*Part 1:* [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.03%20Transfer%20Learning%20%26%20Model%20Improvement/Lab_03-Model_Improvement.ipynb)  
+
+**Notebooks:**
+
+1. Transfer learning for Computer Vision in Keras  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.03%20Transfer%20Learning%20%26%20Model%20Improvement/Image%20classification/Clasificacion_imagenes_perros_gatos_VGG-16_transfer_learning.ipynb)
+
+2. Transfer learning for Computer Vision in PyTorch  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 
 **Assignments:**  
-- *Lab 03:*    
-- [Online course](link)  
+
+- *Lab 03:* Model Improvement  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.03%20Transfer%20Learning%20%26%20Model%20Improvement/Lab_03-Model_Improvement.ipynb)
 
 **Aditional Readings:**
-- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+
+- **Chapter 37: Transfer Learning and Adaptation** Torralba, A., Isola, P., & Freeman, W. (2024). *Foundations of Computer Vision*. MIT Press. https://visionbook.mit.edu/
+
+- **Chapter 5: Transfer Learning for Image Classification** Ayyadevara, V. K., & Reddy, Y. (2024). *Modern Computer Vision with PyTorch: A practical roadmap from Deep Learning fundamentals to advanced applications and Generative AI (2nd ed.)*. Packt Publishing Ltd. https://www.packtpub.com/en-mt/product/modern-computer-vision-with-pytorch-9781803240930
+
+- **Transfer learning or fine-tuning of a model** Shanmugamani, R. (2018). *Deep Learning for Computer Vision: Expert techniques to train advanced neural networks using TensorFlow and Keras (1st ed.)*. Packt Publishing Ltd. https://www.packtpub.com/en-us/product/deep-learning-for-computer-vision-9781788295628
+
+- **PyTorch Models and Pre-trained Weights:** https://docs.pytorch.org/vision/stable/models.html
+
+**Tools:**
+
+- [Streamlit](https://streamlit.io)
+
+**Datasets:**
+
+- [Ants vs. Bees](https://download.pytorch.org/tutorial/hymenoptera_data.zip)
+- [PyTorch Datasets](https://docs.pytorch.org/vision/stable/datasets.html)
 
 ---
 
-### **Unit 4: Object Detection (Midterm Unit)**  
+### **Unit 4: Object Detection**  
 **Topics:** Classification vs detection, bounding boxes & IoU, YOLO architecture, dataset annotation  
 
 **Notebooks:**  
@@ -143,14 +190,15 @@ Transfer learning using ResNet or MobileNet
 **Tools:** Ultralytics YOLO, Roboflow, OpenCV (Bounding Boxes Notebook)  
 
 **Datasets:**  
-[dataset](url)  
+[Common Objects in Contexr (COCO)](https://cocodataset.org/#home)  
 
 **Notebooks:**  
-Train an object detector on a custom dataset using [Roboflow](https://roboflow.com)  
+- Train an object detector on a custom dataset using [Roboflow](https://roboflow.com)  
+
+- [Roboflow tutorial](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.04%20Object%20Detection/Object%20Detection/roboflow_tutorial.pdf)
 
 **Assignments:**  
-- Lab 04  
-- [Online course](link)  
+Notebooks 1, 2, and 3.
 
 **Aditional Readings:**
 - **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
