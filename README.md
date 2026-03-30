@@ -211,18 +211,23 @@ Notebooks 1, 2, and 3.
 **Tools:** PyTorch, MediaPipe  
 
 **Datasets:**  
-[dataset](url)  
+- [COCO-Pose Dataset - 17 keypoints](https://docs.ultralytics.com/datasets/pose/coco/)  
+- [Hand Keypoints Dataset - 21 keypoints](https://docs.ultralytics.com/datasets/pose/hand-keypoints/)
 
-**Notebooks:**  
-Segmentation **or** pose estimation mini-project  
+**Notebooks:** 
+1. Pose Estimation with YOLO  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.05%20Image%20Segmentation%20%26%20Pose%20Estimation/1.%20Pose%20estimation%20with%20YOLO.ipynb)
+
+2. Image Segmentation  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.05%20Image%20Segmentation%20%26%20Pose%20Estimation/2.%20Instance%20segmentation%20with%20YOLO.ipynb) 
 
 **Assignments:**  
-- Lab 05  
-- [Online course](link)  
+- Segmentation **and** pose estimation mini-projects. Instructions and rubric is contained in the lecture notebooks.
 
 **Aditional Readings:**
-- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
-
+- **Chapter 11: Image Segmentation** Chollet, F. (2026). Deep Learning with Python (3rd ed.). Manning Publications. https://deeplearningwithpython.io  
+- [YOLO Instance Segmentation](https://docs.ultralytics.com/tasks/segment/) 
+- [YOLO Pose Estimation](https://docs.ultralytics.com/tasks/pose/) 
 ---
 
 ### **Unit 6: Tracking & Video Analysis**
@@ -261,8 +266,17 @@ Deploy a trained model as an API and consume it from the cloud (AWS, MS Azure, H
 - [Online course](link)  
 
 **Aditional Readings:**
-- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+- **Chapter x: title** Authors (year). Book. Publisher. https://url.com  
+- **Recommended Course:** [Getting Started with AI on Jetson Nano](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2), from the [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)  
+   
+   - Free courses: [Nvidia Deep Learning Institute (free courses)](https://www.nvidia.com/en-us/training/find-training/?Free+Courses=Free)
+- [Jetson AI Lab](https://www.jetson-ai-lab.com)
+- [NVIDIA Jetson with Ultralitics YOLO26](https://docs.ultralytics.com/guides/nvidia-jetson/)
+- [Ultralitics YOLO26 on NVIDIA Jetson using DeepStream SDK and TensorRT](https://docs.ultralytics.com/guides/deepstream-nvidia-jetson/)
+- [NVIDIA DeepSream SDK Developer Guide](https://docs.nvidia.com/metropolis/deepstream/dev-guide/index.html)  
+- [NVIDIS TAO Toolkit](https://developer.nvidia.com/tao-toolkit)
 
+   ![NVIDIA pipeline](assets/cvDeploymentStandard.png)
 ---
 
 ### **Unit 8: Cloud & Modern Vision AI + Final Project Presentations**
