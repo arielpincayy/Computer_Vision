@@ -210,9 +210,12 @@ Notebooks 1, 2, and 3.
 
 **Tools:** PyTorch, MediaPipe  
 
-**Datasets:**  
+**Datasets and Pretrained Models:**  
 - [COCO-Pose Dataset - 17 keypoints](https://docs.ultralytics.com/datasets/pose/coco/)  
-- [Hand Keypoints Dataset - 21 keypoints](https://docs.ultralytics.com/datasets/pose/hand-keypoints/)
+- [Hand Keypoints Dataset - 21 keypoints, Ultralytics](https://docs.ultralytics.com/datasets/pose/hand-keypoints/)
+- [Face Landmark Detection, Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker)
+- [Hand Landmark Detection, Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)
+- [Interactive Image Segmentation, Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/interactive_segmenter)
 
 **Notebooks:** 
 1. Pose Estimation with YOLO  
@@ -233,40 +236,46 @@ Notebooks 1, 2, and 3.
 ### **Unit 6: Tracking & Video Analysis**
 **Topics:** Detection vs tracking, classical trackers (KCF, CSRT), tracking-by-detection  
 
-**Tools:** OpenCV  
+**Tools:** OpenCV, Ultralytics  
 
 **Datasets:**  
-[dataset](url)  
+[PersonPath22](https://amazon-science.github.io/tracking-dataset/personpath22.html)  
+[Multiple Object Tracking Benchmark (MOT17)](https://motchallenge.net/data/MOT17/)  
 
 **Notebooks:**  
-Object tracking in video streams  
+1. Tracking with KCF, CSRT, and ByteTrack  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.06%20Tracking%20%26%20Video%20Análisis/1.%20Tracking.ipynb)  
 
 **Assignments:**  
-- Lab 06  
-- [Online course](link)  
+
+- *The assignment requirements are included in the lecture notebook.*  
 
 **Aditional Readings:**
-- **Chapter X: Title** Authors (year). Book. Publisher. https://url.com  
+- **Chapter 46, 47, 48, 49: Understanding Motion** Torralba, A., Isola, P., & Freeman, W. (2024). Foundations of Computer Vision. MIT Press. https://visionbook.mit.edu/part_understanding_motion.html
+- **Multiple Object Tracking in Realtime** Anna Petrovicheva, OpenCV https://opencv.org/multiple-object-tracking-in-realtime/?ref=blog.roboflow.com
+- **What is Object Tracking in Computer Vision** Mrinal W, Roboflow https://blog.roboflow.com/what-is-object-tracking-computer-vision/
+- **How to Implement Object Tracking for Computer Vision**, Jacob Solawetz, Roboflow https://blog.roboflow.com/what-is-object-tracking-computer-vision/
+- **Multi-Object Tracking with Ultralytics YOLO**, Ultralytics documentation https://docs.ultralytics.com/modes/track/
+- **State-of-the-Art Real-time Multi-Object Trackers with NVIDIA DeepStream SDK 6.2**, NVIDIA Technical Blog https://developer.nvidia.com/blog/state-of-the-art-real-time-multi-object-trackers-with-nvidia-deepstream-sdk-6-2/
 
 ---
 
 ### **Unit 7: Model Deployment & Edge AI**
 **Topics:** Inference vs training, running models with ONNX runtime, vision model APIs, edge inference and hardware constraints  
 
-**Tools:** ONNX Runtime, FastAPI, Jetson Nano, MediaPipe, Flutter (iOS, Android and web)  
+**Tools:** GPUs, NVIDIA Jetson Nano
 
 **Datasets:**  
-[dataset](url)  
+[CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html), *Department of Computer Science, University of Toronto*  
 
 **Notebooks:**  
-Deploy a trained model as an API and consume it from the cloud (AWS, MS Azure, Huawei Cloud, Oracle Cloud, etc.) **or** run inference on Jetson Nano using the GPU **or** on a mobile phone, tablet, watch, TV, etc., using [Flutter](https://flutter.dev/) with MediaPipe  
+1. CPU vs. GPU  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Computer_Vision/blob/main/UC.07%20Model%20Deployment%20%26%20Edge%20AI/1.%20CPUvsGPU.ipynb) 
 
 **Assignments:**  
-- Lab 07  
-- [Online course](link)  
+- The assignment is included in the notebook. 
 
 **Aditional Readings:**
-- **Chapter x: title** Authors (year). Book. Publisher. https://url.com  
 - **Recommended Course:** [Getting Started with AI on Jetson Nano](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2), from the [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)  
    
    - Free courses: [Nvidia Deep Learning Institute (free courses)](https://www.nvidia.com/en-us/training/find-training/?Free+Courses=Free)
