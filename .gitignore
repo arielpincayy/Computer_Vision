@@ -45,3 +45,10 @@ Thumbs.db
 
 UC.04 Object Detection/Object Detection/runs/
 UC.04 Object Detection/Object Detection/final_dataset
+
+
+train*
+person_*
+img*
+*.cache
+*.mp4

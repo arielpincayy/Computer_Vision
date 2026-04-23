@@ -1,5 +1,23 @@
 # **Final Project – Computer Vision Game (Open House)**
 
+## Dates and groups
+The internal final project presentation will be held on:
+- **Monday, April 27th (13h00-16h00)**  
+  *  Aldrin, Ariel  
+  *  Mark, Lander  
+  *  Kevin, Steven  
+  *  Harolt, Mateo  
+  *  Freddy, Joseph  
+
+- **Monday, May 4th (16h00-18h00)**
+  *  Jamil  
+  *  Daniel  
+  *  Luis, Mateo Oñate  
+  *  Mateo Chalacán
+  *  Erick 
+  *  Manuel, Carlos
+
+
 ## 📌 Objective
 Design and implement an **interactive game powered by Computer Vision** to be showcased during the university open house. The target audience will be **6th-grade high school students**, so your game must be:
 
